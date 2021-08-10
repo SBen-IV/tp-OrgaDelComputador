@@ -1,1 +1,3 @@
-# tp-OrgaDelComputador
+# TP - Organización del Computador
+
+Cátedra Moreno-Simó - 2c2019
